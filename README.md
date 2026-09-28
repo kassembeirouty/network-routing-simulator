@@ -108,3 +108,8 @@ mvn test
 ## Tech Stack
 
 Java 21 · Swing · FlatLaf (dark theme) · Maven · JUnit 5 · GitHub Actions
+
+## Authors
+
+- **Kassem Beyrouty** — [@kassembeirouty](https://github.com/kassembeirouty)
+- **Chadi Beyrouty** — [@engineerchadibeyrouty](https://github.com/engineerchadibeyrouty)
