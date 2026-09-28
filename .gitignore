@@ -1,3 +1,4 @@
 target/
 .vscode/
-*.class
+*.classtarget_classes/
+target_test-classes/
